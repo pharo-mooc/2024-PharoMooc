@@ -1,0 +1,1 @@
+{"title" : "Week1: Overview","slidesid" : "W1S00","subtitle" : "Definition, Vision, Syntax and Model"}# Schedule- \[Lecture\] Objectives- \[Lecture\] Pharo: an Immersive Object-Oriented System- \[Lecture\] Pharo Vision- \[Lecture\] Pharo Object Model in a Nutshell- \[Lecture\] Pharo Syntax in a Nutshell- \[Lecture\] Class and Method Definitions
