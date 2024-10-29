@@ -1,1 +1,0 @@
-https://commons.wikimedia.org/wiki/File:Emmentaler_aoc_block.jpg
